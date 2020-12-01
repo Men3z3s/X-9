@@ -34,7 +34,7 @@
             <!-- Left side column. contains the logo and sidebar -->
             <aside class="main-sidebar"><?php include_once('sidebar.php'); ?></aside>
 
-            <!-- Content Wrapper. Contains page content -->
+            <!-- Content Wrapper Contains page content -->
             <div class="content-wrapper">
                 <!-- Content Header (Page header) -->
                 <section class="content-header">
