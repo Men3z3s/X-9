@@ -4976,3 +4976,25 @@ span.lead strong {
     font-size: 18px;
   }
 }
+.d-flex{
+  display: flex !important;
+}
+.justify-content-between{
+  justify-content: space-between!important;
+}
+.flag{
+    overflow: hidden;
+    display: block;
+    border: 1px solid #3c8dbc;
+    border-radius: 5px;
+    position: relative;
+    width: 3rem;
+}
+.flag-img{
+  display: block;
+  max-width: 3rem;
+}
+.my-auto{
+  margin-top: auto ;
+  margin-bottom: auto ;
+}

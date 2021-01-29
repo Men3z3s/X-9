@@ -6,7 +6,7 @@
     }
 ?>
 <!DOCTYPE html>
-<html>
+<html >
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -37,8 +37,15 @@
                         <span class="glyphicon glyphicon-lock form-control-feedback"></span>
                     </div>
                     <div class="row">
-                        <div class="col-xs-offset-8 col-xs-4">
-                            <button type="submit" class="btn btn-primary btn-block btn-flat btn-submit-login">Entrar</button>
+                        <div class="col-xs-12 d-flex justify-content-between">
+                            <div class="my-auto">
+                                <a class="flag" href="/X-9/en">
+                                    <img class="flag-img" src="img/en.png">
+                                </a>
+                            </div>
+                            <div>
+                                <button type="submit" class="btn btn-primary btn-flat btn-submit-login">Enter</button>
+                            </div>
                         </div><!-- /.col -->
                     </div>
                 </form>
